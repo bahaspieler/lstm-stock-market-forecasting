@@ -14,3 +14,5 @@ artifacts/
 *.pkl
 *.joblib
 
+# Local project notes
+HISTORY.md
